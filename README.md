@@ -1,2 +1,3 @@
 # python_Ttest
-Conduct a Two Sample T-Test in Python(2標本のデータの分析)
+This program is to conduct a two sample T-Test(2標本のデータの分析).
+
